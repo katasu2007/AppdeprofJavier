@@ -1,0 +1,6 @@
+{
+  "name": "RACHA",
+  "description": "Contador de días consecutivos de estudio con racha, historial semanal y mensajes motivadores en modo oscuro neón.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
